@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo, useCallback } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 
 const CONFIG = {
   churchName: "First Congregational",
@@ -36,7 +36,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '',
     address: '7628 28th Ave, Watkins, IA 52354',
-    photo: 'https://photos.app.goo.gl/gnTzrRp9mf61K1hE6',
+    photo: 'https://lh3.googleusercontent.com/d/11Gzn0MVRJRgQnnTM5jNtNQacZruyua25',
     category: 'Community'
   },
   {
@@ -46,7 +46,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-857-4489',
     address: '1137 L Road SW, Swisher, Ia 52338',
-    photo: 'https://photos.app.goo.gl/Ng37FjAzzaJgKMhK9',
+    photo: 'https://lh3.googleusercontent.com/d/1WbApfl8232xfVKWnaYCGS6gR7TtaAVwL',
     category: 'Community'
   },
   {
@@ -66,7 +66,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-929-1105',
     homePhone: '319-294-0962',
     address: '2870 Hunt Trail, Cedar Rapids, IA 52411',
-    photo: 'https://photos.app.goo.gl/Ng37FjAzzaJgKMhK9',
+    photo: 'https://lh3.googleusercontent.com/d/1JT3l0mHeFFm-69Esq9GyjQimoW0E6aXI',
     category: 'Community'
   },
   {
@@ -76,7 +76,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-981-5152',
     homePhone: '319-294-0962',
     address: '2870 Hunt Trail, Cedar Rapids, IA 52411',
-    photo: 'https://photos.app.goo.gl/Ng37FjAzzaJgKMhK9',
+    photo: 'https://lh3.googleusercontent.com/d/1ApzqfkNS0Vqk-lgzc8oqJChSCBzOjH-h',
     category: 'Community'
   },
   {
@@ -86,7 +86,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-2398',
     homePhone: '319-360-2398',
     address: '3836 Belden Court  NE, Cedar Rapids, IA 52402',
-    photo: 'https://photos.app.goo.gl/XVK2r1WA331neugKA',
+    photo: 'https://lh3.googleusercontent.com/d/1pFbrQEHTYTWyD9VdCl769yF2VZGNu8oK',
     category: 'Community'
   },
   {
@@ -96,7 +96,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-651-9410',
     homePhone: '319-364-8516',
     address: '118 Tomahawk Trail SE, Cedar Rapids, IA 52403',
-    photo: 'https://photos.app.goo.gl/ALFE2wr9ZwV3Qhnb6',
+    photo: 'https://lh3.googleusercontent.com/d/1c9Um_s-yK4-_CuQxbgwnAaJO-CVrra5Q',
     category: 'Community'
   },
   {
@@ -106,7 +106,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-431-2429',
     homePhone: '319-431-2429',
     address: '308 Linden Terrace SE, Cedar Rapids, IA 52403',
-    photo: 'https://photos.app.goo.gl/Qaw3XRtdAuDykbrP6',
+    photo: 'https://lh3.googleusercontent.com/d/1BOT-1TkuT92SRplyPBwZPhXBxAIEISgN',
     category: 'Community'
   },
   {
@@ -146,7 +146,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-5152',
     homePhone: '319-541-3103',
     address: '5322 Prairie Trail Ct, Marion, IA 52302',
-    photo: 'https://photos.app.goo.gl/kbZk4fzEKQ3sf4cs8',
+    photo: 'https://lh3.googleusercontent.com/d/1gT_WkHw7xAj4UUmAm3uE6AHJMjnP5Wfh',
     category: 'Community'
   },
   {
@@ -156,7 +156,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-541-3103',
     homePhone: '319-541-3103',
     address: '5322 Prairie Trail Ct, Marion, IA 52302',
-    photo: 'https://photos.app.goo.gl/kbZk4fzEKQ3sf4cs8',
+    photo: 'https://lh3.googleusercontent.com/d/1gT_WkHw7xAj4UUmAm3uE6AHJMjnP5Wfh',
     category: 'Community'
   },
   {
@@ -186,7 +186,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-350-6267',
     homePhone: '319-350-0017',
     address: '5111 Broadlawn Drive SE, Cedar Rapids, Ia 52403',
-    photo: 'https://photos.app.goo.gl/jhqgEicbSfxN2oqF6',
+    photo: 'https://lh3.googleusercontent.com/d/1aODHuoTuUVLiqMZgsah7EefWqgMV2pkA',
     category: 'Community'
   },
   {
@@ -196,7 +196,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-350-0017',
     homePhone: '319-350-0017',
     address: '5111 Broadlawn Drive SE, Cedar Rapids, Ia 52403',
-    photo: 'https://photos.app.goo.gl/qtrsuGem2EnDap3Q8',
+    photo: 'https://lh3.googleusercontent.com/d/1uXS7pfTeCYmEH5UMgdvIb7PCcNYam-DU',
     category: 'Staff'
   },
   {
@@ -216,7 +216,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-377-7959',
     address: '3400 Alburnett Rd #121, Marion, Ia 52302',
-    photo: 'https://photos.app.goo.gl/hbhrxG593TtTQvda8',
+    photo: 'https://lh3.googleusercontent.com/d/109Kn7IJ0QYLQb1cLlE7FfSK0nMICsiP8',
     category: 'Community'
   },
   {
@@ -226,7 +226,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-654-6729',
     address: '2621 Prescott Rd #210, Modesto, CA 95350',
-    photo: 'https://photos.app.goo.gl/AdFMLEuYNFsLhzM56',
+    photo: 'https://lh3.googleusercontent.com/d/120zjHGMOXSqYb8wnlk6MR5h1MdG1ITIU',
     category: 'Community'
   },
   {
@@ -266,7 +266,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-533-0774',
     homePhone: '319-395-7483',
     address: '5009 Autumn Drive, Cedar Rapids, Ia 52411',
-    photo: 'https://photos.app.goo.gl/LVQc8G2dMDj91S4JA',
+    photo: 'https://lh3.googleusercontent.com/d/1Vd42kUnB9-Eupa-3L0Twi-_JdyzT4jKD',
     category: 'Community'
   },
   {
@@ -286,7 +286,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-390-1424',
     address: '324 Jacolyn Dr NW, Cedar Rapids, Ia 52405-3405',
-    photo: 'https://photos.app.goo.gl/qMySTwQnytf9FmFv7',
+    photo: 'https://lh3.googleusercontent.com/d/1_xgG1vMLSp7I9YpRncAru4pkJoBrwQ1e',
     category: 'Community'
   },
   {
@@ -296,7 +296,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-447-6286',
     address: '2310 Timber Creek Drive, Marion, Ia 52302',
-    photo: 'https://photos.app.goo.gl/xAJpYqVA2raUxu1S6',
+    photo: 'https://lh3.googleusercontent.com/d/1L7DCDMnc7IE0PU_sGoUn-sftGmqhU1vk',
     category: 'Community'
   },
   {
@@ -306,7 +306,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-533-8672',
     homePhone: '319-447-6286',
     address: '2310 Timber Creek Drive, Marion, Ia 52302',
-    photo: 'https://photos.app.goo.gl/xAJpYqVA2raUxu1S6',
+    photo: 'https://lh3.googleusercontent.com/d/197lYtqv3lgQsHnbtQEQl3YPr9c3XJ2bd',
     category: 'Community'
   },
   {
@@ -316,7 +316,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-981-2799',
     homePhone: '319-377-8877',
     address: '5412 Culver Lane, Marion, Ia 52302',
-    photo: 'https://photos.app.goo.gl/5waKXaWaQJRhwucg6',
+    photo: 'https://lh3.googleusercontent.com/d/1CfxOTRjyrdS6fs0oXrQb4kml1K6BcRP6',
     category: 'Community'
   },
   {
@@ -326,7 +326,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-9992',
     homePhone: '319-377-8877',
     address: '5412 Culver Lane, Marion, Ia 52302',
-    photo: 'https://photos.app.goo.gl/5waKXaWaQJRhwucg6',
+    photo: 'https://lh3.googleusercontent.com/d/1CfxOTRjyrdS6fs0oXrQb4kml1K6BcRP6',
     category: 'Community'
   },
   {
@@ -356,7 +356,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-573-6280',
     homePhone: '319-373-5097',
     address: '2570 Edinburgh Pl, Marion, Ia 52302',
-    photo: 'https://photos.app.goo.gl/w7tLu88VwBbJVvoS7',
+    photo: 'https://lh3.googleusercontent.com/d/1d2mOUBlOQ_JdmrWGXeeyCMIsTxeSzQBJ',
     category: 'Community'
   },
   {
@@ -456,7 +456,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-210-5521',
     homePhone: '319-210-5521',
     address: '1434 Center Point Rd NE #E, Cedar Rapids, Ia 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1TdEAdAzv_SsDrBpV2xL3iklbbfTiG256',
     category: 'Staff'
   },
   {
@@ -596,7 +596,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-721-4203',
     homePhone: '319-365-8785',
     address: '5321 Seminole Valley Trail NE, Cedar Rapids, Ia 52411',
-    photo: 'https://photos.app.goo.gl/YtzdgaGqPXsXCtv56',
+    photo: 'https://lh3.googleusercontent.com/d/1dTrHqDiNNSHHo8pFFhZQTkJdxLRmxila',
     category: 'Community'
   },
   {
@@ -606,7 +606,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-365-8785',
     address: '5321 Seminole Valley Trail NE, Cedar Rapids, Ia 52411',
-    photo: 'https://photos.app.goo.gl/YtzdgaGqPXsXCtv56',
+    photo: '',
     category: 'Community'
   },
   {
@@ -656,7 +656,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-365-5669',
     address: '740 East Post Ct SE, Cedar Rapids, Ia 52403',
-    photo: 'https://photos.app.goo.gl/nUmo96na3ZrNudAp6',
+    photo: 'https://lh3.googleusercontent.com/d/1U1cA7eFwj-kfzJUULElDyyhynTpr8Hp7',
     category: 'Community'
   },
   {
@@ -666,7 +666,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-365-5669',
     address: '740 East Post Ct SE, Cedar Rapids, Ia 52403',
-    photo: 'https://photos.app.goo.gl/VR7gjyMYFEUf9o5o7',
+    photo: 'https://lh3.googleusercontent.com/d/1zexf_eI74V2C1wWXKSBjVwhgIYoqoKY4',
     category: 'Community'
   },
   {
@@ -756,7 +756,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-213-4692',
     homePhone: '319-533-8467',
     address: '511 Dunreath Dr NE, Cedar Rapids, Ia 52402',
-    photo: 'https://photos.app.goo.gl/M96RpTzJGx9J11AB9',
+    photo: 'https://lh3.googleusercontent.com/d/1yQNrYWZCB9ckJJOndxBckDZ2-RbQh4cU',
     category: 'Community'
   },
   {
@@ -766,7 +766,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-533-8467',
     homePhone: '319-533-8467',
     address: '511 Dunreath Dr NE, Cedar Rapids, Ia 52402',
-    photo: 'https://photos.app.goo.gl/M96RpTzJGx9J11AB9',
+    photo: 'https://lh3.googleusercontent.com/d/1I2DpvJb8vDVH_o3RO2FX9QyyRIoOoC1l',
     category: 'Community'
   },
   {
@@ -796,7 +796,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-6060',
     homePhone: '',
     address: '503 Green Valley Terrace  SE, Cedar Rapids, IA 52403',
-    photo: 'https://photos.app.goo.gl/4KrJrGonEksn9GRKA',
+    photo: 'https://lh3.googleusercontent.com/d/1crY0AfSq6cXwsXn7ddgLp5cH3FBYypb7',
     category: 'Community'
   },
   {
@@ -806,7 +806,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-8052',
     homePhone: '',
     address: '503 Green Valley Terrace  SE, Cedar Rapids, IA 52403',
-    photo: 'https://photos.app.goo.gl/4KrJrGonEksn9GRKA',
+    photo: 'https://lh3.googleusercontent.com/d/19XfuOl3deucSLwKl5GbPi3csJ18Gg4wf',
     category: 'Community'
   },
   {
@@ -936,7 +936,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-538-2102',
     homePhone: '319- 538-2102',
     address: '1400 2nd Ave SE #508, Cedar Rapids, Ia 52403',
-    photo: 'https://photos.app.goo.gl/jNxw6MiQQVG1we7K9',
+    photo: 'https://lh3.googleusercontent.com/d/1i6NGwqFOTfiEmY1RlNeBdzr-x-LPri_h',
     category: 'Community'
   },
   {
@@ -1026,7 +1026,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-5107',
     homePhone: '319-377-5105',
     address: '2500 Northview Drive, Marion, IA 52302',
-    photo: 'https://photos.app.goo.gl/QBKVA4RkUkajDrms5',
+    photo: 'https://lh3.googleusercontent.com/d/1D0KglBpTSIjT4qkFBTfJDWmnQ8JE1RzP',
     category: 'Community'
   },
   {
@@ -1146,7 +1146,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-558-6083',
     homePhone: '',
     address: '730 Knoll St SE, Cedar Rapids, Ia 52403',
-    photo: 'https://photos.app.goo.gl/BFZ949x1b5tKJSGC8',
+    photo: 'https://lh3.googleusercontent.com/d/1f2BuRsYGwiRmhL13Ava-OEavaEIpef-Q',
     category: 'Community'
   },
   {
@@ -1196,7 +1196,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-310-5765',
     homePhone: '',
     address: '2413 DeSoto SW, Cedar Rapids, Ia 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1ZbxnhtitgDqQmivSM9SZvtcP4023NVTx',
     category: 'Leadership'
   },
   {
@@ -1616,7 +1616,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-350-8994',
     address: '428 Memorial Drive SE, Cedar Rapids, IA 52403',
-    photo: 'https://photos.app.goo.gl/UD74dnuKdKwRvDE8A',
+    photo: 'https://lh3.googleusercontent.com/d/1ams9Gp003VgJdKbE8K0kSk25N0YmVeL7',
     category: 'Community'
   },
   {
@@ -1896,7 +1896,7 @@ const DIRECTORY_DATA = [
     cellPhone: '937-869-4483',
     homePhone: '319-826-3134',
     address: '2302 Hoosier St SW, Cedar Rapids, IA 52404',
-    photo: 'https://photos.app.goo.gl/EDSAXwRrvBsoBM878',
+    photo: '',
     category: 'Staff'
   },
   {
@@ -1906,7 +1906,7 @@ const DIRECTORY_DATA = [
     cellPhone: '937-926-2163',
     homePhone: '319-826-3134',
     address: '2302 Hoosier St SW, Cedar Rapids, IA 52404',
-    photo: 'https://photos.app.goo.gl/EDSAXwRrvBsoBM878',
+    photo: 'https://lh3.googleusercontent.com/d/1otZ4wwzA0TRdqkoH4PozpbrJ5H5AcSdq',
     category: 'Leadership'
   },
   {
@@ -2146,7 +2146,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-329-6075',
     address: '3705 Royal Drive SW, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1Anw54vGvi99TeAZCIpz-Dpgul3r9IzF7',
     category: 'Community'
   },
   {
@@ -2246,7 +2246,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-693-0811',
     homePhone: '319-693-0811',
     address: '5200 Broadlawn Dr SE, Cedar Rapids, IA 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1OkIdr26sRxhg4hvPdYkMKqM2PuyDHk1H',
     category: 'Staff'
   },
   {
@@ -2366,7 +2366,7 @@ const DIRECTORY_DATA = [
     cellPhone: '3193621926',
     homePhone: '',
     address: '361 17th St SE, Cedar Rapids, IA 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1_e3BvwrOC1I6C-woBU21dFF6Yx_mai0r',
     category: 'Staff'
   },
   {
@@ -2376,8 +2376,18 @@ const DIRECTORY_DATA = [
     cellPhone: '31992022685',
     homePhone: '',
     address: '362 17th St SE, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1XRGb25K2Qy90MfWXzf-_3FFSHMR-WzH3',
     category: 'Staff'
+  },
+  {
+    id: 237,
+    name: 'Gerry Kreitzer',
+    email: '',
+    cellPhone: '',
+    homePhone: '',
+    address: '',
+    photo: 'https://lh3.googleusercontent.com/d/1UvpgsXYrLu9aQZuwb7sndnydu_l4Socw',
+    category: 'Community'
   }
 ];
 
@@ -2477,6 +2487,7 @@ const ChurchApp = () => {
   const [isDirectoryAuthenticated, setIsDirectoryAuthenticated] = useState(false);
   const [directoryPassword, setDirectoryPassword] = useState('');
   const [directoryPasswordError, setDirectoryPasswordError] = useState('');
+  const [failedPhotos, setFailedPhotos] = useState({});
 
   useEffect(() => {
     const sessionData = localStorage.getItem('fcucc_directory_session');
@@ -2509,6 +2520,10 @@ const ChurchApp = () => {
     setActiveTab('home');
   };
 
+  const handlePhotoError = (personId) => {
+    setFailedPhotos(prev => ({ ...prev, [personId]: true }));
+  };
+
   const filteredDirectory = useMemo(() => {
     return DIRECTORY_DATA.filter(person =>
       person.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -2526,6 +2541,48 @@ const ChurchApp = () => {
 
   const categoryOrder = ['Staff', 'Leadership', 'Community'];
   const getInitials = (name) => name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
+
+  const PersonPhoto = ({ person, size = 56, fontSize = 18 }) => {
+    const showInitials = !person.photo || failedPhotos[person.id];
+    
+    if (showInitials) {
+      return (
+        <div style={{
+          width: size,
+          height: size,
+          borderRadius: '50%',
+          backgroundColor: '#4C7273',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          color: '#FFFFFF',
+          fontSize: fontSize,
+          fontWeight: '600',
+          flexShrink: 0,
+          border: size > 60 ? '4px solid #E8DFD0' : '3px solid #E8DFD0',
+        }}>
+          {getInitials(person.name)}
+        </div>
+      );
+    }
+    
+    return (
+      <img 
+        src={person.photo} 
+        alt={person.name}
+        style={{
+          width: size,
+          height: size,
+          borderRadius: '50%',
+          objectFit: 'cover',
+          border: size > 60 ? '4px solid #E8DFD0' : '3px solid #E8DFD0',
+          flexShrink: 0,
+        }}
+        onError={() => handlePhotoError(person.id)}
+        referrerPolicy="no-referrer"
+      />
+    );
+  };
 
   let content;
   
@@ -2647,10 +2704,7 @@ const ChurchApp = () => {
                 <div style={styles.peopleGrid}>
                   {people.map(person => (
                     <div key={person.id} style={styles.personCard} onClick={() => setSelectedPerson(person)}>
-                      {person.photo ? (
-                        <img src={person.photo} alt={person.name} style={styles.personPhoto} onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'flex'; }} />
-                      ) : null}
-                      <div style={{...styles.personInitials, display: person.photo ? 'none' : 'flex'}}>{getInitials(person.name)}</div>
+                      <PersonPhoto person={person} size={56} fontSize={18} />
                       <div style={styles.personInfo}>
                         <h4 style={styles.personName}>{person.name}</h4>
                       </div>
@@ -2671,11 +2725,7 @@ const ChurchApp = () => {
           <div style={styles.modalOverlay} onClick={() => setSelectedPerson(null)}>
             <div style={styles.modalContent} onClick={(e) => e.stopPropagation()}>
               <button style={styles.modalClose} onClick={() => setSelectedPerson(null)}>✕</button>
-              {selectedPerson.photo ? (
-                <img src={selectedPerson.photo} alt={selectedPerson.name} style={styles.modalPhoto} onError={(e) => { e.target.style.display = 'none'; }} />
-              ) : (
-                <div style={styles.modalInitials}>{getInitials(selectedPerson.name)}</div>
-              )}
+              <PersonPhoto person={selectedPerson} size={120} fontSize={48} />
               <h3 style={styles.modalName}>{selectedPerson.name}</h3>
               <p style={styles.modalCategory}>{selectedPerson.category}</p>
               <div style={styles.modalContactInfo}>
