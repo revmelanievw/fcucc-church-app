@@ -14,7 +14,7 @@ const CONFIG = {
 };
 
 const SECURITY = {
-  directoryPassword: "fcucc2025",
+  directoryPassword: "fcucc2026",
   sessionDuration: 0,
 };
 
