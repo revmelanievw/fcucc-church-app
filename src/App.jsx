@@ -77,7 +77,7 @@ const DIRECTORY_DATA = [
     homePhone: '319-294-0962',
     address: '2870 Hunt Trail, Cedar Rapids, IA 52411',
     photo: 'https://lh3.googleusercontent.com/d/1ApzqfkNS0Vqk-lgzc8oqJChSCBzOjH-h',
-    category: 'Community'
+    category: 'Leadership'
   },
   {
     id: 7,
