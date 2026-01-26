@@ -2752,8 +2752,8 @@ const ChurchApp = () => {
           <p style={styles.giveSubtitle}>Your generosity makes a difference in our community and beyond.</p>
         </div>
         <div style={styles.giveCard}>
-          <p style={styles.giveQuote}>"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver."</p>
-          <p style={styles.giveReference}>— 2 Corinthians 9:7</p>
+          <p style={styles.giveQuote}>"But who am I, and who are my people, that we should be able to give as generously as this? Everything comes from you, and we have given you only what comes from your hand."</p>
+          <p style={styles.giveReference}>— 1 Chronicles 29:14 </p>
         </div>
         <a href={CONFIG.givingUrl} target="_blank" rel="noopener noreferrer" style={styles.giveButton}>Give Online with Givelify</a>
         <div style={styles.giveOptions}>
