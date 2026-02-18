@@ -816,7 +816,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-861-8734',
     homePhone: '319-373-7508',
     address: '2989 Diamond Lane SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://drive.google.com/file/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43/view?usp=drive_link',
     category: 'Leadership'
   },
   {
@@ -826,7 +826,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-573-7508',
     homePhone: '319-573-7508',
     address: '2989 Diamond Lane SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://drive.google.com/file/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43/view?usp=drive_link',
     category: 'Leadership'
   },
   {
@@ -1206,7 +1206,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-1834',
     homePhone: '319-393-0844',
     address: '5511 Antler Drive, Cedar Rapids, Ia 52411',
-    photo: '',
+    photo: 'https://drive.google.com/file/d/1Z6A0LQ9dv7GIKlyn-61OSZejk7Tx2Ey2/view?usp=drive_link',
     category: 'Community'
   },
   {
@@ -1896,7 +1896,7 @@ const DIRECTORY_DATA = [
     cellPhone: '937-869-4483',
     homePhone: '319-826-3134',
     address: '2302 Hoosier St SW, Cedar Rapids, IA 52404',
-    photo: 'https://drive.google.com/file/d/1s07S6w77cHz40Wp7aZKgDfjypUXpo9Sc/view?usp=drive_link',
+    photo: 'https://drive.google.com/file/d/1c70d70KGPCP8n5i4eQdFLsa298c38VPf/view?usp=drive_link',
     category: 'Staff'
   },
   {
