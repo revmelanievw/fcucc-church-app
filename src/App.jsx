@@ -816,7 +816,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-861-8734',
     homePhone: '319-373-7508',
     address: '2989 Diamond Lane SE, Cedar Rapids, Ia 52403',
-    photo: 'https://drive.google.com/file/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43/view?usp=drive_link',
+    photo: 'https://lh3.googleusercontent.com/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43',
     category: 'Leadership'
   },
   {
@@ -826,7 +826,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-573-7508',
     homePhone: '319-573-7508',
     address: '2989 Diamond Lane SE, Cedar Rapids, Ia 52403',
-    photo: 'https://drive.google.com/file/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43/view?usp=drive_link',
+    photo: 'https://lh3.googleusercontent.com/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43/',
     category: 'Leadership'
   },
   {
@@ -1206,7 +1206,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-1834',
     homePhone: '319-393-0844',
     address: '5511 Antler Drive, Cedar Rapids, Ia 52411',
-    photo: 'https://drive.google.com/file/d/1Z6A0LQ9dv7GIKlyn-61OSZejk7Tx2Ey2/view?usp=drive_link',
+    photo: 'https://lh3.googleusercontent.com/d/1Z6A0LQ9dv7GIKlyn-61OSZejk7Tx2Ey2',
     category: 'Community'
   },
   {
@@ -1216,7 +1216,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-5777',
     homePhone: '319-393-0844',
     address: '5511 Antler Drive, CEDAR RAPIDS, IA 52411',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1fV_U9qOTzjcy1zhjM9nGj1ASiBmORwZf',
     category: 'Leadership'
   },
   {
@@ -1396,7 +1396,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-533-4199',
     homePhone: '319-533-4199',
     address: '111 E Lemon Street, West Branch, IA 52358',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1896,7 +1896,7 @@ const DIRECTORY_DATA = [
     cellPhone: '937-869-4483',
     homePhone: '319-826-3134',
     address: '2302 Hoosier St SW, Cedar Rapids, IA 52404',
-    photo: 'https://drive.google.com/file/d/1c70d70KGPCP8n5i4eQdFLsa298c38VPf/view?usp=drive_link',
+    photo: 'https://lh3.googleusercontent.com/d/1c70d70KGPCP8n5i4eQdFLsa298c38VPf',
     category: 'Staff'
   },
   {
@@ -2086,7 +2086,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '720-589-6897',
     address: '4010 Windfall Dr NW, Cedar Rapids, IA 52405',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -2096,7 +2096,7 @@ const DIRECTORY_DATA = [
     cellPhone: '303-993-8603',
     homePhone: '720-589-6897',
     address: '4010 Windfall Dr NW, Cedar Rapids, IA 52405',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -2136,7 +2136,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-329-2210',
     homePhone: '319-329-2210',
     address: '4531 33rd Ave SW, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1RLgxs3V2J3dl3w9PgTrUL3qAcxr2Z1lq',
     category: 'Community'
   },
   {
@@ -2156,7 +2156,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-361-1758',
     homePhone: '319-361-1758',
     address: '1704 Bobcat Dr NW, Cedar Rapids, IA 52405',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/14iwYiIBFopcQRR12Csyc-viS65U9wMxQ',
     category: 'Community'
   },
   {
@@ -2166,7 +2166,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-361-1758',
     homePhone: '',
     address: '1704 Bobcat Dr NW, Cedar Rapids, IA 52405',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/14iwYiIBFopcQRR12Csyc-viS65U9wMxQ',
     category: 'Community'
   },
   {
@@ -2176,7 +2176,7 @@ const DIRECTORY_DATA = [
     cellPhone: '308-430-2679',
     homePhone: '',
     address: '7107 Prairie Heights Dr SW, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1O1Pw2w1d_FrAo1slJBMUjvFREYSq45Av',
     category: 'Community'
   },
   {
@@ -2336,7 +2336,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-0890',
     homePhone: '',
     address: '3180 English Glen Ct #7, Marion, Iowa 52302',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1UO3u5yvqKHtVIeMd-X-9e2AF5Zftd0YX,
     category: 'Community'
   },
   {
@@ -2346,7 +2346,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-362-1926',
     homePhone: '',
     address: '2525 Blue Ridge Drive NE, Cedar Rapids, Iowa 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1E8M1n_zcPzsBMUj3wTtZD9sNtUo7JvzY',
     category: 'Community'
   },
   {
