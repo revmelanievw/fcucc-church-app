@@ -2336,7 +2336,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-0890',
     homePhone: '',
     address: '3180 English Glen Ct #7, Marion, Iowa 52302',
-    photo: 'https://lh3.googleusercontent.com/d/1UO3u5yvqKHtVIeMd-X-9e2AF5Zftd0YX,
+    photo: 'https://lh3.googleusercontent.com/d/1UO3u5yvqKHtVIeMd-X-9e2AF5Zftd0YX',
     category: 'Community'
   },
   {
