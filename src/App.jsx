@@ -2063,7 +2063,7 @@ const DIRECTORY_DATA = [
     id: 205,
     name: 'Myron Williams',
     email: 'mlwilliamsbooks@gmail.com',
-    cellPhone: '319-538-6172'
+    cellPhone: '319-538-6172',
     address: '1309 Brendel Hill Drive NW, Cedar Rapids, IA 52405',
     photo: 'https://lh3.googleusercontent.com/d/1ICDYhZAJ_dxHTTBR5CHEJs_2QQafOrjS',
     category: 'Leadership'
