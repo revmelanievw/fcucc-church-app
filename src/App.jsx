@@ -1896,7 +1896,7 @@ const DIRECTORY_DATA = [
     cellPhone: '937-869-4483',
     homePhone: '319-826-3134',
     address: '2302 Hoosier St SW, Cedar Rapids, IA 52404',
-    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
+    photo: 'https://lh3.googleusercontent.com/d/1s07S6w77cHz40Wp7aZKgDfjypUXpo9Sc',
     category: 'Staff'
   },
   {
