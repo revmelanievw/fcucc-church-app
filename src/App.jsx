@@ -606,7 +606,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-365-8785',
     address: '5321 Seminole Valley Trail NE, Cedar Rapids, Ia 52411',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
