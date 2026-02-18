@@ -506,7 +506,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-929-2597',
     homePhone: '319-828-8126',
     address: '1745 Johnson Iowa Road, Homestead, Ia 52236-8501',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -516,7 +516,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-929-2602',
     homePhone: '319-828-8126',
     address: '1745 Johnson Iowa Road, Homestead, Ia 52236-8501',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -846,7 +846,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-363-0661',
     address: '365 Lindsay Lane SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -856,7 +856,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-721-0296',
     homePhone: '319-363-0661',
     address: '365 Lindsay Lane SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -896,7 +896,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-4127',
     homePhone: '',
     address: '181 Braybrook SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -906,7 +906,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-366-6889',
     homePhone: '319-366-6889',
     address: '1900 Grande Ave SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Leadership'
   },
   {
@@ -1046,7 +1046,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-848-2177',
     address: '2517 31st Street SW, Cedar Rapids, Ia 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1056,7 +1056,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-521-4998',
     homePhone: '319-848-2177',
     address: '2517 31st Street SW, Cedar Rapids, Ia 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1066,7 +1066,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-540-2383',
     homePhone: '319-550-6144',
     address: '3229 Stone Court, Marion, Ia 52302-9433',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1086,7 +1086,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-3663',
     homePhone: '319-366-3649',
     address: '136 Red Fox Rd SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1096,7 +1096,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-8621',
     homePhone: '319-366-3649',
     address: '136 Red Fox Rd SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1176,7 +1176,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-350-9948',
     address: '302 B Avenue, Hiawatha, IA 52233-1508',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
