@@ -1782,7 +1782,7 @@ const DIRECTORY_DATA = [
   {
     id: 177,
     name: 'Kent Ryan',
-    email: 'kryan@cr.k12.ia.us',
+    email: 'sidatcsc@yahoo.com',
     cellPhone: '515-210-7551',
     homePhone: '515-210-7551',
     address: '2521 10th Ave SW, Cedar Rapids, IA 52404',
