@@ -336,7 +336,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-329-7312',
     homePhone: '319-393-7312',
     address: '2612 Falcon Dr NE, Cedar Rapids, Ia 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -706,7 +706,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-366-3900',
     address: '2510 26th St Dr SE, Cedar Rapids, Ia 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1306,7 +1306,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-4069',
     homePhone: '',
     address: '1650 Koehler Drive NW #212, Cedar Rapids, IA 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1536,7 +1536,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-538-2167',
     homePhone: '319-550-6907',
     address: '6862 Spear Point Court, Marion, IA 52302',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Leadership'
   },
   {
@@ -1546,7 +1546,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-538-2168',
     homePhone: '319-550-6907',
     address: '6862 Spear Point Court, Marion, IA 52302',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1596,7 +1596,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-350-8994',
     address: '428 Memorial Drive SE, Cedar Rapids, IA 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1686,7 +1686,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '515-571-0866',
     address: '1650 Koehler Dr NW #234, Cedar Rapids, IA 52405-1578',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/11gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1706,7 +1706,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-329-5089',
     homePhone: '319-329-5089',
     address: '150 Thompson Drive SE #308, Cedar Rapids, IA 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1716,7 +1716,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-640-5192',
     homePhone: '319-640-5198',
     address: '2270 Heritage Green Drive, Hiawatha, IA 52233',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1726,7 +1726,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-640-5198',
     homePhone: '319-640-5198',
     address: '2270 Heritage Green Drive, Hiawatha, IA 52233',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
@@ -1816,7 +1816,7 @@ const DIRECTORY_DATA = [
     cellPhone: '760-681-6007',
     homePhone: '319-365-0750',
     address: '2404 Grande Avenue SE, Cedar Rapids, IA 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
