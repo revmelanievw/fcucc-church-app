@@ -826,7 +826,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-573-7508',
     homePhone: '319-573-7508',
     address: '2989 Diamond Lane SE, Cedar Rapids, Ia 52403',
-    photo: 'https://lh3.googleusercontent.com/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43/',
+    photo: 'https://lh3.googleusercontent.com/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43',
     category: 'Leadership'
   },
   {
