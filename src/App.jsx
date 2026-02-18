@@ -77,7 +77,7 @@ const DIRECTORY_DATA = [
     homePhone: '319-294-0962',
     address: '2870 Hunt Trail, Cedar Rapids, IA 52411',
     photo: 'https://lh3.googleusercontent.com/d/1ApzqfkNS0Vqk-lgzc8oqJChSCBzOjH-h',
-    category: 'Leadership'
+    category: 'Community'
   },
   {
     id: 7,
@@ -1206,7 +1206,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-1834',
     homePhone: '319-393-0844',
     address: '5511 Antler Drive, Cedar Rapids, Ia 52411',
-    photo: 'https://lh3.googleusercontent.com/d/1Z6A0LQ9dv7GIKlyn-61OSZejk7Tx2Ey2',
+    photo: 'https://lh3.googleusercontent.com/d/1uXi46O0jTlXv5Ti49kJLoyM5BJTFsZ43',
     category: 'Community'
   },
   {
@@ -1231,16 +1231,6 @@ const DIRECTORY_DATA = [
   },
   {
     id: 122,
-    name: 'Celia Van Metre',
-    email: '',
-    cellPhone: '',
-    homePhone: '319-297-5622',
-    address: '2115 1st Ave. #2404, Cedar Rapids, Ia 52402',
-    photo: '',
-    category: 'Community'
-  },
-  {
-    id: 123,
     name: 'Brian Westphalen',
     email: 'bmwestphalen@aol.com',
     cellPhone: '319-431-6589',
@@ -1250,7 +1240,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 124,
+    id: 123,
     name: 'Michael Woode',
     email: 'mandmwoode@hotmail.com',
     cellPhone: '319-270-3903',
@@ -1260,17 +1250,17 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 125,
+    id: 124,
     name: 'Michelle Woode',
     email: 'mandmwoode@hotmail.com',
     cellPhone: '319-329-6236',
     homePhone: '',
     address: '720 S 22nd Street, Marion, Ia 52302',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1POXnMaXV-AIxeRUciw9K17lJtdmHssPd',
     category: 'Leadership'
   },
   {
-    id: 126,
+    id: 125,
     name: 'Mark Wooff',
     email: '',
     cellPhone: '',
@@ -1280,7 +1270,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 127,
+    id: 126,
     name: 'Julie Wooff',
     email: 'm.jwooff.schaub@mchsi.com',
     cellPhone: '',
@@ -1290,7 +1280,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 128,
+    id: 127,
     name: 'William Yeisley',
     email: 'hcyeisleyharriet@outlook.com',
     cellPhone: '319-560-1079',
@@ -1300,7 +1290,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 129,
+    id: 128,
     name: 'Harriet Yeisley',
     email: 'hcyeisleyharriet@outlook.com',
     cellPhone: '',
@@ -1310,7 +1300,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 130,
+    id: 129,
     name: 'Joyce Vogt',
     email: 'joycerhvogt@gmail.com',
     cellPhone: '319-360-4069',
@@ -1320,7 +1310,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 131,
+    id: 130,
     name: 'Corey Baker',
     email: 'subtlechange@mchsi.com',
     cellPhone: '319-929-5962',
@@ -1330,7 +1320,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 132,
+    id: 131,
     name: 'Kathy Baker',
     email: 'kjb@onenoteguitar.com',
     cellPhone: '319-929-5960',
@@ -1340,7 +1330,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 133,
+    id: 132,
     name: 'Patricia Davison',
     email: 'laughalot1234567@aol.com',
     cellPhone: '',
@@ -1350,7 +1340,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 134,
+    id: 133,
     name: 'Daniel Perez',
     email: 'daniel.perez2@wellsfargo.com',
     cellPhone: '',
@@ -1360,7 +1350,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 135,
+    id: 134,
     name: 'Jenna Perez',
     email: 'jenna.perez1@gmail.com',
     cellPhone: '',
@@ -1370,37 +1360,37 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 136,
+    id: 135,
     name: 'James Moriarty',
     email: 'james.moriarty4@gmail.com',
     cellPhone: '641-781-8867',
     homePhone: '641-781-8868',
     address: '6912 Surrey Drive NE, Cedar Rapids, IA 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/17gQiTxe2Owk7-PgetF2_zMeh4tFSlrIW',
     category: 'Community'
   },
   {
-    id: 137,
+    id: 136,
     name: 'Dawn Moriarty',
     email: 'DAWNLIN.MORIARTY@GMAIL.COM',
     cellPhone: '641-781-8868',
     homePhone: '641-781-8868',
     address: '6912 Surrey Drive NE, Cedar Rapids, IA 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1c_6P3XpZyRRhfRfW2bKhk8agocuPj1y5',
     category: 'Community'
   },
   {
-    id: 138,
+    id: 137,
     name: 'Gary Hebl-Benser',
     email: 'gary.benser@gmail.com',
     cellPhone: '319-533-4199',
     homePhone: '319-533-4199',
     address: '111 E Lemon Street, West Branch, IA 52358',
-    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
+    photo: 'https://lh3.googleusercontent.com/d/1cVE-OblJEGmZ-DvM9MloR2ahqo6CDRcT',
     category: 'Community'
   },
   {
-    id: 139,
+    id: 138,
     name: 'Kris Williams',
     email: '',
     cellPhone: '',
@@ -1410,7 +1400,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 140,
+    id: 139,
     name: 'Kylisha Williams',
     email: '',
     cellPhone: '',
@@ -1420,7 +1410,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 141,
+    id: 140,
     name: 'Joan Runge',
     email: 'DJRUNG@mchsi.com',
     cellPhone: '',
@@ -1430,7 +1420,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 142,
+    id: 141,
     name: 'Matt Rood',
     email: '',
     cellPhone: '',
@@ -1440,7 +1430,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 143,
+    id: 142,
     name: 'Clare Rood',
     email: '',
     cellPhone: '',
@@ -1450,7 +1440,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 144,
+    id: 143,
     name: 'Geraldine Slaybaugh',
     email: 'geribobs@imonmail.com',
     cellPhone: '',
@@ -1460,7 +1450,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 145,
+    id: 144,
     name: 'Heidi Becker',
     email: 'hculver9@gmail.com',
     cellPhone: '319-929-3893',
@@ -1470,7 +1460,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 146,
+    id: 145,
     name: 'Travis Becker',
     email: 'travisbecker23@gmail.com',
     cellPhone: '319-415-3321',
@@ -1480,7 +1470,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 147,
+    id: 146,
     name: 'Les (Lester) Bailey',
     email: 'lcbailey65@hotmail.com',
     cellPhone: '319-481-1044',
@@ -1490,7 +1480,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 148,
+    id: 147,
     name: 'Sue Keller',
     email: 'smallcat@centurylink.net',
     cellPhone: '319-321-0203',
@@ -1500,7 +1490,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 149,
+    id: 148,
     name: 'Ed Keller',
     email: 'aekeller@centurylink.net',
     cellPhone: '',
@@ -1510,7 +1500,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 150,
+    id: 149,
     name: 'Darwin Plagge',
     email: 'darwinplagge@hotmail.com',
     cellPhone: '',
@@ -1520,7 +1510,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 151,
+    id: 150,
     name: 'Derek Plagge',
     email: 'plagge.derek@gmail.com',
     cellPhone: '319-431-3939',
@@ -1530,7 +1520,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 152,
+    id: 151,
     name: 'Carrie Wickham',
     email: 'carrie.wickham@gmail.com',
     cellPhone: '',
@@ -1540,7 +1530,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 153,
+    id: 152,
     name: 'Charles Russell',
     email: 'crussell617@gmail.com',
     cellPhone: '319-538-2167',
@@ -1550,7 +1540,7 @@ const DIRECTORY_DATA = [
     category: 'Leadership'
   },
   {
-    id: 154,
+    id: 153,
     name: 'Susan Russell',
     email: 'srussell664@gmail.com',
     cellPhone: '319-538-2168',
@@ -1560,7 +1550,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 155,
+    id: 154,
     name: 'Al Boettger',
     email: 'allan-boettger@uiowa.edu',
     cellPhone: '',
@@ -1570,7 +1560,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 156,
+    id: 155,
     name: 'Jen Boettger',
     email: 'jen.boettger@gmail.com',
     cellPhone: '319-721-7312',
@@ -1580,7 +1570,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 157,
+    id: 156,
     name: 'Brian Allen',
     email: 'kristiallensmile@gmail.com',
     cellPhone: '',
@@ -1590,7 +1580,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 158,
+    id: 157,
     name: 'Kristi Allen',
     email: 'kristiallensmile@gmail.com',
     cellPhone: '',
@@ -1600,7 +1590,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 159,
+    id: 158,
     name: 'Meghan Riden',
     email: 'penwoman8@yahoo.com',
     cellPhone: '',
@@ -1610,7 +1600,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 160,
+    id: 159,
     name: 'Dustin Riden',
     email: '',
     cellPhone: '',
@@ -1620,7 +1610,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 161,
+    id: 160,
     name: 'Norma Hughes',
     email: 'nghughes7@gmail.com',
     cellPhone: '',
@@ -1630,7 +1620,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 162,
+    id: 161,
     name: 'Betty King',
     email: '1420dreamsinc@gmail.com',
     cellPhone: '319-533-9075',
@@ -1640,7 +1630,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 163,
+    id: 162,
     name: 'Timothy Hofferber',
     email: 'tim.hofferber@gmail.com',
     cellPhone: '319-531-0675',
@@ -1650,7 +1640,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 164,
+    id: 163,
     name: 'Carli Hofferber',
     email: 'hofferbers@gmail.com',
     cellPhone: '563-581-3837',
@@ -1660,7 +1650,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 165,
+    id: 164,
     name: 'Renee Miller',
     email: 'rsmiller@imonmail.com',
     cellPhone: '319-540-3552',
@@ -1670,7 +1660,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 166,
+    id: 165,
     name: 'Scott Miller',
     email: 'rsmiller@imonmail.com',
     cellPhone: '319-540-3754',
@@ -1680,7 +1670,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 167,
+    id: 166,
     name: 'Al Johnston',
     email: '',
     cellPhone: '319-310-6075',
@@ -1690,7 +1680,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 168,
+    id: 167,
     name: 'Mary Lou Peters',
     email: 'mlpetersia@gmail.com',
     cellPhone: '',
@@ -1700,7 +1690,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 169,
+    id: 168,
     name: 'Anne Christensen',
     email: '',
     cellPhone: '',
@@ -1710,7 +1700,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 170,
+    id: 169,
     name: 'Cherryl Moon Thomason',
     email: 'cherron@mchsi.com',
     cellPhone: '319-329-5089',
@@ -1720,7 +1710,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 171,
+    id: 170,
     name: 'Mike Murrell',
     email: '4 murrells@gmail.com',
     cellPhone: '319-640-5192',
@@ -1730,7 +1720,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 172,
+    id: 171,
     name: 'Deb Murrell',
     email: '4murrells@gmail.com',
     cellPhone: '319-640-5198',
@@ -1740,7 +1730,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 173,
+    id: 172,
     name: 'Patricia Myers',
     email: 'patmyers1@gmail.com',
     cellPhone: '319-621-6833',
@@ -1750,7 +1740,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 174,
+    id: 173,
     name: 'Biondo Lujulika',
     email: '',
     cellPhone: '319-389-5864',
@@ -1760,7 +1750,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 175,
+    id: 174,
     name: 'Shukrani Thahe',
     email: 'joelbyondo@gmail.com',
     cellPhone: '319-538-2808',
@@ -1770,7 +1760,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 176,
+    id: 175,
     name: 'Tyler Culver',
     email: 'tyculv@gmail.com',
     cellPhone: '',
@@ -1780,7 +1770,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 177,
+    id: 176,
     name: 'Kelsey Culver',
     email: '',
     cellPhone: '',
@@ -1790,27 +1780,27 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 178,
+    id: 177,
     name: 'Kent Ryan',
     email: 'kryan@cr.k12.ia.us',
     cellPhone: '515-210-7551',
     homePhone: '515-210-7551',
     address: '2521 10th Ave SW, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/12vkE2t0xkdWlZkyurmhWoM_3Z8-hQHZH',
     category: 'Leadership'
   },
   {
-    id: 179,
+    id: 178,
     name: 'Halli Sanford-Ryan',
     email: 'hksryan@live.com',
     cellPhone: '515-210-9649',
     homePhone: '515-210-7551',
     address: '2521 10th Ave SW, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/12vkE2t0xkdWlZkyurmhWoM_3Z8-hQHZH',
     category: 'Leadership'
   },
   {
-    id: 180,
+    id: 179,
     name: 'Tracie Purvis',
     email: 'tracslay@aol.com',
     cellPhone: '',
@@ -1820,7 +1810,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 181,
+    id: 180,
     name: 'David Sherwood',
     email: 'sherwoodda@hotmail.com',
     cellPhone: '760-681-6007',
@@ -1830,7 +1820,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 182,
+    id: 181,
     name: 'Noralee Sherwood',
     email: 'poodleeye@gmail.com',
     cellPhone: '',
@@ -1840,7 +1830,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 183,
+    id: 182,
     name: 'James Evans',
     email: 'mv67wiu71@gmail.com',
     cellPhone: '319-310-2897',
@@ -1850,7 +1840,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 184,
+    id: 183,
     name: 'Mary Evans',
     email: 'marye1840@gmail.com',
     cellPhone: '',
@@ -1860,7 +1850,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 185,
+    id: 184,
     name: 'Art Hackett',
     email: 'arthackett@gmail.com',
     cellPhone: '',
@@ -1870,7 +1860,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 186,
+    id: 185,
     name: 'Mark Johnson',
     email: 'mrmarkljohnson@gmail.com',
     cellPhone: '319-651-3923',
@@ -1880,7 +1870,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 187,
+    id: 186,
     name: 'Rebecca Mumaw',
     email: 'rsmumaw@gmail.com',
     cellPhone: '319-651-4941',
@@ -1890,7 +1880,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 188,
+    id: 187,
     name: 'Curtis Miner',
     email: 'revcurt55@gmail.com',
     cellPhone: '937-869-4483',
@@ -1900,7 +1890,7 @@ const DIRECTORY_DATA = [
     category: 'Staff'
   },
   {
-    id: 189,
+    id: 188,
     name: 'Linda Miner',
     email: 'linderbehr@yahoo.com',
     cellPhone: '937-926-2163',
@@ -1910,7 +1900,7 @@ const DIRECTORY_DATA = [
     category: 'Leadership'
   },
   {
-    id: 190,
+    id: 189,
     name: 'Jim Russell',
     email: 'jarclu@hotmail.com',
     cellPhone: '319-360-4152',
@@ -1920,7 +1910,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 191,
+    id: 190,
     name: 'Mary Russell',
     email: '',
     cellPhone: '',
@@ -1930,7 +1920,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 192,
+    id: 191,
     name: 'Mallory Williams',
     email: 'Mallory_Williams@yahoo.com',
     cellPhone: '',
@@ -1940,7 +1930,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 193,
+    id: 192,
     name: 'Jim Wooldridge',
     email: 'wooldridge.james70@gmail.com',
     cellPhone: '',
@@ -1950,7 +1940,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 194,
+    id: 193,
     name: 'Deb Wooldridge',
     email: 'wooldridge.deborah@gmail.com',
     cellPhone: '319-651-1504',
@@ -1960,7 +1950,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 195,
+    id: 194,
     name: 'Sherri Reihle',
     email: 'sareihle@gmail.com',
     cellPhone: '319-899-3621',
@@ -1970,7 +1960,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 196,
+    id: 195,
     name: 'Jeff Reihle',
     email: 'jgr1257@gmail.com',
     cellPhone: '319-899-3619',
@@ -1980,7 +1970,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 197,
+    id: 196,
     name: 'Stephanie Quackenbush',
     email: 'SATBQ1@gmail.com',
     cellPhone: '',
@@ -1990,7 +1980,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 198,
+    id: 197,
     name: 'Jon Remington',
     email: 'jonremington22@gmail.com',
     cellPhone: '319-360-9967',
@@ -2000,7 +1990,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 199,
+    id: 198,
     name: 'Mary Remington',
     email: 'mereming@gmail.com',
     cellPhone: '',
@@ -2010,7 +2000,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 200,
+    id: 199,
     name: 'John Tremain',
     email: 'gpajack504@gmail.com',
     cellPhone: '',
@@ -2020,7 +2010,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 201,
+    id: 200,
     name: 'Theresa Tremain',
     email: 'omaterryt@gmail.com',
     cellPhone: '',
@@ -2030,7 +2020,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 202,
+    id: 201,
     name: 'Katherine Detlefsen',
     email: 'katherine.layher@gmail.com',
     cellPhone: '636-667-2580',
@@ -2040,7 +2030,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 203,
+    id: 202,
     name: 'Ryan Russell',
     email: 'rsruss6399@gmail.com',
     cellPhone: '319-270-6846',
@@ -2050,7 +2040,7 @@ const DIRECTORY_DATA = [
     category: 'Leadership'
   },
   {
-    id: 204,
+    id: 203,
     name: 'Lori Russell',
     email: '',
     cellPhone: '',
@@ -2060,7 +2050,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 205,
+    id: 204,
     name: 'Susan Hodin',
     email: 'susanhodin@yahoo.com',
     cellPhone: '',
@@ -2070,7 +2060,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 206,
+    id: 205,
     name: 'Myron Williams',
     email: 'mfwilson@q.com',
     cellPhone: '319-538-6172',
@@ -2080,27 +2070,27 @@ const DIRECTORY_DATA = [
     category: 'Leadership'
   },
   {
-    id: 207,
+    id: 206,
     name: 'Todd O\'Rourke',
     email: 'mrtoddorourke@yahoo.com',
     cellPhone: '',
     homePhone: '720-589-6897',
     address: '4010 Windfall Dr NW, Cedar Rapids, IA 52405',
-    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
+    photo: '',
     category: 'Community'
   },
   {
-    id: 208,
+    id: 207,
     name: 'Tim Sinclair',
     email: 'mrtimsinclair@yahoo.com',
     cellPhone: '303-993-8603',
     homePhone: '720-589-6897',
     address: '4010 Windfall Dr NW, Cedar Rapids, IA 52405',
-    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
+    photo: '',
     category: 'Community'
   },
   {
-    id: 209,
+    id: 208,
     name: 'Mark Schile',
     email: 'mark.schile@gmail.com',
     cellPhone: '319-743-5899',
@@ -2110,7 +2100,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 210,
+    id: 209,
     name: 'Cindy Schile',
     email: 'cindy.schile@gmail.com',
     cellPhone: '319-743-5890',
@@ -2120,7 +2110,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 211,
+    id: 210,
     name: 'Mona Burns',
     email: '',
     cellPhone: '',
@@ -2130,7 +2120,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 212,
+    id: 211,
     name: 'Kendra Hanzlik',
     email: 'klhmom@yahoo.com',
     cellPhone: '319-329-2210',
@@ -2140,7 +2130,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 213,
+    id: 212,
     name: 'Carri Koch',
     email: 'candbk2@gmail.com',
     cellPhone: '',
@@ -2150,7 +2140,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 214,
+    id: 213,
     name: 'Tom Kluth',
     email: '',
     cellPhone: '319-361-1758',
@@ -2160,7 +2150,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 215,
+    id: 214,
     name: 'Yufan Kluth',
     email: 'Yufan9898@hotmail.com',
     cellPhone: '319-361-1758',
@@ -2170,7 +2160,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 216,
+    id: 215,
     name: 'Todd Jamison',
     email: 'todd.jamison@gmail.com',
     cellPhone: '308-430-2679',
@@ -2180,17 +2170,17 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 217,
+    id: 216,
     name: 'Wendy Jamison',
     email: 'Wjamison42@gmail.com',
     cellPhone: '308-430-5632',
     homePhone: '',
     address: '7107 Prairie Heights Drive SW, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gAK0XYKZIrnXOsASd8urep0QmEL8uHOF',
     category: 'Community'
   },
   {
-    id: 218,
+    id: 217,
     name: 'BJ Franklin',
     email: 'bjfranklin1231@gmail.com',
     cellPhone: '',
@@ -2200,7 +2190,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 219,
+    id: 218,
     name: 'Rob Franklin',
     email: 'bjfranklin1231@gmail.com',
     cellPhone: '',
@@ -2210,7 +2200,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 220,
+    id: 219,
     name: 'Janet Satern',
     email: 'noahandjanetsatern@gmail.com',
     cellPhone: '563-419-8501',
@@ -2220,7 +2210,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 221,
+    id: 220,
     name: 'Noah Satern',
     email: 'noahandjanetsatern@gmail.com',
     cellPhone: '563-419-8501',
@@ -2230,7 +2220,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 222,
+    id: 221,
     name: 'Peter Quackenbush',
     email: '',
     cellPhone: '',
@@ -2240,7 +2230,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 223,
+    id: 222,
     name: 'Melanie VanWeelden',
     email: 'melanie@firstchurchcr.org',
     cellPhone: '319-693-0811',
@@ -2250,7 +2240,7 @@ const DIRECTORY_DATA = [
     category: 'Staff'
   },
   {
-    id: 224,
+    id: 223,
     name: 'Jazmin Williams',
     email: 'jazw291@gmail.com',
     cellPhone: '319-550-0598',
@@ -2260,7 +2250,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 225,
+    id: 224,
     name: 'David Kind',
     email: 'thedavidkind@gmail.com',
     cellPhone: '319-206-8934',
@@ -2270,7 +2260,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 226,
+    id: 225,
     name: 'Travis Clark',
     email: 'clarktravis12@yahoo.com',
     cellPhone: '',
@@ -2280,7 +2270,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 227,
+    id: 226,
     name: 'David Gearhart',
     email: 'dagearh@gmail.com',
     cellPhone: '319-270-4918',
@@ -2290,7 +2280,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 228,
+    id: 227,
     name: 'Kevin Winn',
     email: 'kwinn1234@gmail.com',
     cellPhone: '319-929-5720',
@@ -2300,7 +2290,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 229,
+    id: 228,
     name: 'Tammy Winn',
     email: '',
     cellPhone: '',
@@ -2310,7 +2300,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 230,
+    id: 229,
     name: 'Heather Basham-Balfour',
     email: 'heather.balfour1988@gmail.com',
     cellPhone: '217-370-2863',
@@ -2320,7 +2310,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 231,
+    id: 230,
     name: 'Amy Basham-Balfour',
     email: 'heather.balfour1988@gmail.com',
     cellPhone: '217-370-2863',
@@ -2330,7 +2320,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 232,
+    id: 231,
     name: 'Kathleen Battin',
     email: 'kbattin53@gmail.com',
     cellPhone: '319-270-0890',
@@ -2340,7 +2330,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 233,
+    id: 232,
     name: 'Maxx Tone',
     email: 'maxine.tone@yahoo.com',
     cellPhone: '319-362-1926',
@@ -2350,7 +2340,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 234,
+    id: 233,
     name: 'Michelle Fitzgerald',
     email: 'wonderwomanrealtor@gmail.com',
     cellPhone: '319-929-4200',
@@ -2360,7 +2350,7 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 235,
+    id: 234,
     name: 'Brooke Spicer',
     email: 'office@firstchurchcr.org',
     cellPhone: '3193621926',
@@ -2370,7 +2360,7 @@ const DIRECTORY_DATA = [
     category: 'Staff'
   },
   {
-    id: 236,
+    id: 235,
     name: 'Iris Strong',
     email: 'iris@firstchurchcr.org',
     cellPhone: '31992022685',
@@ -2380,7 +2370,7 @@ const DIRECTORY_DATA = [
     category: 'Staff'
   },
   {
-    id: 237,
+    id: 236,
     name: 'Gerry Kreitzer',
     email: '',
     cellPhone: '',
@@ -2753,7 +2743,7 @@ const ChurchApp = () => {
         </div>
         <div style={styles.giveCard}>
           <p style={styles.giveQuote}>"But who am I, and who are my people, that we should be able to give as generously as this? Everything comes from you, and we have given you only what comes from your hand."</p>
-          <p style={styles.giveReference}>— 1 Chronicles 29:14 </p>
+          <p style={styles.giveReference}>— 1 Chronicles 29:14</p>
         </div>
         <a href={CONFIG.givingUrl} target="_blank" rel="noopener noreferrer" style={styles.giveButton}>Give Online with Givelify</a>
         <div style={styles.giveOptions}>
