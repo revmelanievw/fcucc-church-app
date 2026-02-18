@@ -2075,7 +2075,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '720-589-6897',
     address: '4010 Windfall Dr NW, Cedar Rapids, IA 52405',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
