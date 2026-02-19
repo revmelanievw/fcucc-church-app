@@ -25,7 +25,7 @@ const DIRECTORY_DATA = [
     email: 'kmeppers@rockwellcollins.com',
     cellPhone: '319-573-1567',
     homePhone: '319-854-6941',
-    address: '2890 Springville Road, Springville, IA 52336-9763',
+    address: '2890 Springville Road, Springville, IA 52336',
     photo: '',
     category: 'Community'
   },
