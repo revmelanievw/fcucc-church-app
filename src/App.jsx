@@ -1936,7 +1936,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-651-1504',
     homePhone: '',
     address: '3950 Cottage Grove Hill Rd SE, Cedar Rapids, IA 52403',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1sG8-TRadbPCKo1B8-PolACi8yVGQC3yG',
     category: 'Community'
   },
   {
@@ -1976,7 +1976,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-360-9967',
     homePhone: '319-366-6048',
     address: '3016 2nd Ave SW, Cedar Rapids, IA 52404',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/17osQZE8EcF82kkTzLuH2c3grZ-kdef2z',
     category: 'Community'
   },
   {
@@ -2016,7 +2016,7 @@ const DIRECTORY_DATA = [
     cellPhone: '636-667-2580',
     homePhone: '',
     address: '1427 Center Point Rd NE #7, Cedar Rapids, IA 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1YiidYzWMYuRw0Uk5qLxkrhF-j1adLUF3',
     category: 'Community'
   },
   {
@@ -2265,7 +2265,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-4918',
     homePhone: '',
     address: '727 Winterberry Pl NE, Cedar Rapids, Iowa 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1J_Wg0l8ybJeQY1HeCBU5tvo6E0F2G9Uc',
     category: 'Community'
   },
   {
@@ -2365,6 +2365,15 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '',
     address: '',
+    photo: 'https://lh3.googleusercontent.com/d/1UvpgsXYrLu9aQZuwb7sndnydu_l4Socw',
+    category: 'Community'
+  }
+   id: 237,
+    name: 'Bev Gearhart',
+    email: 'bgearman@gmail.com',
+    cellPhone: '319-270-8587',
+    homePhone: '',
+    address: '727 Winterberry Place NE, Cedar Rapids, Iowa 52402',
     photo: 'https://lh3.googleusercontent.com/d/1UvpgsXYrLu9aQZuwb7sndnydu_l4Socw',
     category: 'Community'
   }
