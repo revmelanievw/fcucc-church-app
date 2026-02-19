@@ -1686,7 +1686,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '515-571-0866',
     address: '1650 Koehler Dr NW #234, Cedar Rapids, IA 52405-1578',
-    photo: 'https://lh3.googleusercontent.com/d/1yjQTZP_MKtgDz-TekMn_DFKKz1am2a5s/view?usp=drive_link',
+    photo: 'https://lh3.googleusercontent.com/d/1yjQTZP_MKtgDz-TekMn_DFKKz1am2a5s',
     category: 'Community'
   },
   {
@@ -1726,7 +1726,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-640-5198',
     homePhone: '319-640-5198',
     address: '2270 Heritage Green Drive, Hiawatha, IA 52233',
-    photo: 'https://lh3.googleusercontent.com/d/1rY0Zsar0nGuxG0qcfZppOs7rGtccs1nI'',
+    photo: 'https://lh3.googleusercontent.com/d/1rY0Zsar0nGuxG0qcfZppOs7rGtccs1nI',
     category: 'Community'
   },
   {
