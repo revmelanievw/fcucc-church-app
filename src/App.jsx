@@ -1586,7 +1586,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-431-4287',
     address: '1411 A Avenue NW, Cedar Rapids, IA 52405',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1gprEt5MXRobI5SZ2pGF_vLd8iv3w-f4N',
     category: 'Community'
   },
   {
