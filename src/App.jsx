@@ -1850,16 +1850,6 @@ const DIRECTORY_DATA = [
     category: 'Community'
   },
   {
-    id: 184,
-    name: 'Art Hackett',
-    email: 'arthackett@gmail.com',
-    cellPhone: '',
-    homePhone: '',
-    address: '2004 C Street SW, Cedar Rapids, IA 52404',
-    photo: '',
-    category: 'Community'
-  },
-  {
     id: 185,
     name: 'Mark Johnson',
     email: 'mrmarkljohnson@gmail.com',
