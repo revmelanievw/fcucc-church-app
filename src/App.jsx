@@ -2026,7 +2026,7 @@ const DIRECTORY_DATA = [
     cellPhone: '319-270-6846',
     homePhone: '319-270-6846',
     address: '1322 O Avenue NE, Cedar Rapids, IA 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1sFEU5d2b93gmW4swZGso9A-ogSbZuQi_',
     category: 'Leadership'
   },
   {
@@ -2036,7 +2036,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '319-270-6846',
     address: '1322 O Avenue NE, Cedar Rapids, IA 52402',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1sFEU5d2b93gmW4swZGso9A-ogSbZuQi_',
     category: 'Community'
   },
   {
@@ -2046,7 +2046,7 @@ const DIRECTORY_DATA = [
     cellPhone: '',
     homePhone: '303-913-3540',
     address: '6126 Rockwell Drive NE #210, Cedar Rapids, IA 52402-4782',
-    photo: '',
+    photo: 'https://lh3.googleusercontent.com/d/1PmgZBiqehSxf5-YE7TQD8ydQD1Xi79AN',
     category: 'Community'
   },
   {
