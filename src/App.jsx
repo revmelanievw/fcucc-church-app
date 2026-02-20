@@ -7,7 +7,7 @@ const CONFIG = {
   address: "361 17th Street SE, Cedar Rapids, IA 52403",
   phone: "319-362-1926",
   email: "office@firstchurchcr.org",
-  worshipTime: "Sundays at 10:00 AM",
+  worshipTime: "Sundays at 10:00AM",
   givingUrl: "https://www.givelify.com/donate/first-congregational-united-church-of-christ-fcucc-cedar-rapids-ia-2j7wy5MjA3MzI=/donation/amount",
   calendarUrl: "https://fcccr.org/events",
   welcomeMessage: "No matter who you are or where you are on life's journey, you are welcome here.",
