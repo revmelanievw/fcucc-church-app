@@ -2367,8 +2367,9 @@ const DIRECTORY_DATA = [
     address: '',
     photo: 'https://lh3.googleusercontent.com/d/1UvpgsXYrLu9aQZuwb7sndnydu_l4Socw',
     category: 'Community'
-  }
-   id: 237,
+   },
+  {
+    id: 237, 
     name: 'Bev Gearhart',
     email: 'bgearman@gmail.com',
     cellPhone: '319-270-8587',
