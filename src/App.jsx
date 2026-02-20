@@ -89,11 +89,11 @@ function parseCSV(csvText) {
 }
 
 async function fetchDirectoryFromSheet(sheetId, sheetName) {
-  const url = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(sheetName)}`;
+  const url = "https://docs.google.com/spreadsheets/d/" + sheetId + "/gviz/tq?tqx=out:csv&sheet=" + encodeURIComponent(sheetName);
 
   const response = await fetch(url);
   if (!response.ok) {
-    throw new Error(`Failed to fetch sheet: ${response.status}`);
+    throw new Error("Failed to fetch sheet: " + response.status);
   }
 
   const csvText = await response.text();
