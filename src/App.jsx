@@ -89,7 +89,7 @@ function parseCSV(csvText) {
 }
 
 async function fetchDirectoryFromSheet(sheetId, sheetName) {
-  const url = `https://docs.google.com/spreadsheets/d/${1ADH4dlI7_h0sEU-6m-idtNraUe2VVi1oBNzbpvLXcRw}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(sheetName)}`;
+  const url = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(sheetName)}`;
 
   const response = await fetch(url);
   if (!response.ok) {
